@@ -1,0 +1,53 @@
+All Humanoid Animations are in 48x32 cells separated by row. There are slight variations between Archer and Knight/Lizardman animations detailed below:
+
+Knight/Lizard Man Animation Names By Row
+-Idle
+-Crouch
+-Walk
+-Run
+-Sprint
+-Stun, Bleed, Burn/Shock
+-Bow Idle
+-Bow Crouch
+-Bow Walk
+-Bow Shoot, Bow Shoot Crouched
+-Bow Shoot Down, Bow Shoot Up
+-Bow Stun, Bleed, Burn/Shock
+-Sword & Shield Idle
+-Sword & Shield Crouch
+-Sword & Shield Walk
+-Sword & Shield Stab, Sword & Shield Stab Crouched
+-Sword & Shield Stab Down, Sword & Shield Stab Up
+-Sword & Shield Stun, Bleed, Burn/Shock
+-Flail Idle
+-Flail Crouch
+-Flail Walk
+-Flail Swing
+-Flail Swing Crouched
+-Flail Stun, Bleed, Burn/Shock
+-Various Raised Arm Poses
+
+Archer Animation Names By Row
+-Idle
+-Crouch, Jumping, Falling, Wall Slide, Ledge Grab
+-Walk
+-Run
+-Sprint
+-Stun, Bleed, Burn/Shock
+-Bow Idle
+-Bow Crouch, Jumping, Falling, Wall Slide, Ledge Grab
+-Bow Walk
+-Bow Shoot
+-Bow Shoot Crouched
+-Bow Shoot Down
+-Bow Shoot Up
+-Bow Stun, Bleed, Burn/Shock
+-Sword & Shield Idle
+-Sword & Shield Crouch, Jumping, Falling, Wall Slide, Ledge Grab
+-Sword & Shield Walk
+-Sword & Shield Stab
+-Sword & Shield Stab Crouched
+-Sword & Shield Stab Down
+-Sword & Shield Stab Up
+-Sword & Shield Stun, Bleed, Burn/Shock
+-Various Raised Arm Poses
